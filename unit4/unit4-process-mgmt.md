@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 4. Process Management
-parent: Unit 4
 nav_order: 7
 has_children: true
 ---

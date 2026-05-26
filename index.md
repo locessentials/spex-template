@@ -24,4 +24,4 @@ These specifications are written in [**Markdown format**](https://docs.github.co
 ---
 
 ## Ready to Begin?
-Review the complete [Overview](overview/overview.md) to learn about how the specifications have been designed or visit the [Outline](introduction/outline.md) to understand the structure of the specifications.
+Review the complete [Overview](overview/overview.md) to learn about how the specifications have been designed or skip directly to the [Outline](overview/outline.md).

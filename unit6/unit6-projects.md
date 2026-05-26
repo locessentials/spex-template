@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 6. Project Specifics
-parent: Unit 6
 nav_order: 9
 has_children: true
 ---

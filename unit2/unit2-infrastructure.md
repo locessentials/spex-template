@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 2. Infrastructure
-parent: Unit 2. Infrastructure
 nav_order: 5
 has_children: true
 ---

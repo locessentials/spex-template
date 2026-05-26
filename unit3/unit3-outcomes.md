@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 3. Outcomes
-parent: Unit 3
 nav_order: 6
 has_children: true
 ---

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 1. Product Line
-parent: Unit 1. Product Line
 nav_order: 4
 has_children: true
 ---
