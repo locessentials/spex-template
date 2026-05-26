@@ -1,0 +1,24 @@
+// LocEssentials color scheme for Just the Docs
+
+// Sidebar background - light green
+$sidebar-color: #bcddf5;  // Very light blue
+
+// Link colors - dark green
+$link-color: #1c6399;  // Dark blue for links
+$link-hover-color: #103856;  // Even darker on hover
+
+// Apply to Just the Docs variables
+$nav-list-link-color: $link-color;
+$nav-list-link-color-hover: $link-hover-color;
+$nav-list-link-color-active: $link-hover-color;
+
+// Body link colors
+$body-text-color: #404040;  // Keep default text color
+$body-link-color: $link-color;
+$body-link-hover-color: $link-hover-color;
+
+// Search results
+$search-result-preview-color: $body-text-color;
+
+// Buttons (optional - keeps them green themed)
+$btn-primary-color: $link-color;
