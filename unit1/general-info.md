@@ -43,37 +43,7 @@ Work progresses more smoothly when you know who the stakeholders to the work are
 [^3]: See [National Numbering Plans](https://www.itu.int/oth/T0202.aspx?parent=T0202) of the International Telecommunication Union for a list of international dialing codes.
 [^4]: Identifying if client reviews will take place in localization production is an important aspect of scope management. Establish who the client reviewers are within an organization, if any, to avoid surprise reviews that contribute to rework and increase costs and timelines on projects. It is recommended to get client approval over: 1. terminology, 2. translations, and 3. localization.
 
-### Quality Management
-
-| **Parameter key** | **Parameter value** |
-| ----- | ----- |
-| Name | ----- |
-| Role | ----- |
-| Organization | ----- |
-| Email | ----- |
-| Etcetera | ----- |
-
-### Translators
-
-| **Parameter key** | **Parameter value** |
-| ----- | ----- |
-| Name | ----- |
-| Role | ----- |
-| Organization | ----- |
-| Email | ----- |
-| Etcetera | ----- |
-
-### Engineers
-
-| **Parameter key** | **Parameter value** |
-| ----- | ----- |
-| Name | ----- |
-| Role | ----- |
-| Organization | ----- |
-| Email | ----- |
-| Etcetera | ----- |
-
-### Etcetera
+### Quality Management / Translators / Engineers / Etcetera
 
 | **Parameter key** | **Parameter value** |
 | ----- | ----- |
