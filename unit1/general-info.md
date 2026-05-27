@@ -18,10 +18,11 @@ nav_order: 1
 
 ## Notes
 
-[^1]: A website URL that begins with https is secure, while a website URL that begins with http is not secure. See http vs. https via Snopes.com.
-[^2]: Vertical is a synonym for subject field, subject matter, domain, discipline, etc.
+^1 A website URL that begins with https is secure, while a website URL that begins with http is not secure. See http vs. https via Snopes.com.
+^2 Vertical is a synonym for subject field, subject matter, domain, discipline, etc.
 
 ---
 
 **Forward:** [Key Contacts](contact-details.md)
+
 **Back:** [Unit 1 - Product Line](unit1-product-line.md)
