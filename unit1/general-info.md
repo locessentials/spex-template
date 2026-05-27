@@ -82,3 +82,5 @@ Work progresses more smoothly when you know who the stakeholders to the work are
 | Organization | ----- |
 | Email | ----- |
 | Etcetera | ----- |
+
+## Notes
