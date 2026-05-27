@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Unit 0. Introduction
 nav_order: 3
 has_children: false
 ---
@@ -42,8 +42,3 @@ To produce T&L specifications, you'll also need to understand the following spec
 **Disclaimer:** This repo is maintained by LocEssentials. These specifications are uncontrolled after download or being forked from this repository. We are not responsible for changes to the files, nor are we responsible for errors that result from putting these specifications to work. Third parties use this template at their own risk.
 
 This repo has been shared under a [CC BY 4.0 License](../license.md).
-
----
-
-**Forward:** [Unit 1 - Product Line](../unit1/unit1-product-line.md)
-**Back:** [Outline](../overview/outline.md)

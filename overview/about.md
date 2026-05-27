@@ -30,8 +30,3 @@ You can connect with me on LinkedIn: [https://www.linkedin.com/in/alainambrandt/
 ## Acknowledgements
 
 These specifications build directly upon the [Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs/) via Tranquality by Language Terminology/Translation and Acquisition Consortium (LTAC). Additional standards consulted in the creation of this form include ISO 11669 and ASTM F2575. For a full list of resources consulted, see the References page at the end of this repo.
-
----
-
-**Forward:** [How to Use these Specifications](how-to-use.md)
-**Back:** [Overview](overview.md)

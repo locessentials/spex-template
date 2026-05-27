@@ -41,7 +41,7 @@ To download any page as a markdown file for use with GAI tools:
 
 You can easily publish your version of the specifications via a website hosted on [GitHub Pages](https://docs.github.com/en/pages). This is especially helpful in production environments, where a link enables easy version control and ensures that everyone on the team is on the same page.
 
-### Contributing Improvements to the Main Repo
+## Contributing Improvements to the Main Repo
 
 Found an error? Have an excellent note that should be added? Want to suggest additional parameters? Contributions are welcome.
 
@@ -50,8 +50,3 @@ Found an error? Have an excellent note that should be added? Want to suggest add
 3. **Create a Pull Request** from your fork to the main repository
 4. **Describe your contribution** clearly in the description
 5. **Wait for review** and possible integration into the main repo
-
----
-
-**Forward:** [Outline](outline.md)
-**Back:** [About Us](about.md)

@@ -6,19 +6,3 @@ has_children: true
 ---
 
 # Unit 4: Process Management
-
-## Sections
-
-### [Workflows](workflows.md)
-
-
-### [Technology Summary](tech-summary.md)
-
-
-### [People and Roles](people-roles.md)
-
-
----
-
-**Forward:**
-**Back:** 

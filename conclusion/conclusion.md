@@ -6,13 +6,3 @@ has_children: true
 ---
 
 # Conclusion
-
-## References
-
-## Feedback
-
-
----
-
-**Back:** 
-**Forward:**
